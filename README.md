@@ -7,15 +7,14 @@ So, we've gone through all of the basics of React. To really hammer it home with
 
 This is what our list will look like when we're finished:
 
-![finished-list](./images/todo-list-finished.png)
+![finished-list](https://raw.githubusercontent.com/WDI-SEA/react_state_exercises_global/master/images/todo-list-finished.png)
 
 Let's get started!
 
 
-* Fork & Clone
-* run `npm i` to install dependencies
-
-Use `npm start` to start a server that will serve your new React application!
+* Fork & Clone this repo
+* run `npx create-react-app .` to build a new react app in this directory
+* Use `npm start` to start a server that will serve your new React application!
 
 
 ```sh
@@ -195,7 +194,7 @@ export default ListItem
 ```
 
 Our app now looks like this:
-![list-preview](./images/todo-list-2.png)
+![list-preview](https://raw.githubusercontent.com/WDI-SEA/react_state_exercises_global/master/images/todo-list-2.png)
 
 
 ## Third, render different items in an array.
@@ -302,4 +301,4 @@ export default ListItem
 ```
 
 Now what we have is:
-![list-preview](./images/todo-list-3.png)
+![list-preview](https://raw.githubusercontent.com/WDI-SEA/react_state_exercises_global/master/images/todo-list-3.png)
